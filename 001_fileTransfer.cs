@@ -49,12 +49,7 @@ namespace DailyFileTransfer
             
             }
             
-            /*foreach (DirectoryInfo srcSubDir in source.GetDirectories())
-            {
-                DirectoryInfo dstSubDir = destination.CreateSubdirectory(srcSubDir.Name);
-                CheckFile(srcSubDir, dstSubDir);
-            }*/
-
+          
         }
                 
 
